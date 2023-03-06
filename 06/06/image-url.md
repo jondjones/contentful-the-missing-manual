@@ -1,0 +1,1 @@
+https://images.ctfassets.net/{SPACE_ID}/{ENTITY_ID}/{ASSET_ID}/{FILENAME}.{EXTENSION}

@@ -1,0 +1,1 @@
+organizations/{ORGANISATION_ID}/organization_memberships

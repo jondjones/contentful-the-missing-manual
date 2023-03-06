@@ -1,0 +1,1 @@
+﻿https://cdn.contentful.com/

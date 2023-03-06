@@ -1,0 +1,1 @@
+https://api.contentful.com/organizations/{ORGANISATION_ID}/teams

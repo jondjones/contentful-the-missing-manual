@@ -1,0 +1,1 @@
+npx create-contentful-app my-first-app

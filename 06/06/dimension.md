@@ -1,0 +1,1 @@
+https://images.ctfassets.net/../?w={WIDTH}&h={HEIGHT}

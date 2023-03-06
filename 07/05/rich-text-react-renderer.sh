@@ -1,0 +1,1 @@
+npm install @contentful/rich-text-react-renderer

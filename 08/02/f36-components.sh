@@ -1,0 +1,1 @@
+npm i @contentful/f36-components

@@ -1,0 +1,1 @@
+npm install --save gatsby-source-contentful

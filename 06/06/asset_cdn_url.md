@@ -1,0 +1,1 @@
+https://cdn.contentful.com/spaces/SPACE_ID/environments/ENVIRONMENT_ID/assets/ASSET_ID?access_token=ACCESS_TOKEN

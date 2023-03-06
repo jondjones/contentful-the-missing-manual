@@ -1,0 +1,1 @@
+<img src={prop.fields.image.fields.file.url} alt={prop.fields.image.fields.title} />

@@ -1,0 +1,1 @@
+https://api.contentful.com/organizations/{ORGANIZATION_ID}/organization_memberships/{ORGANIZATION_MEMBERSHIP_ID}

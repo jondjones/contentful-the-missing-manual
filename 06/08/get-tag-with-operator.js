@@ -1,0 +1,1 @@
+const api = `[GET]/entries?tags[exists]=true`

@@ -1,0 +1,14 @@
+{
+    "name": "Blog Post",
+    "fields": [
+        {
+            "id": "title",
+            "name": "Title",
+            "required": true, "localized": true, "type": "Text",
+            "defaultValue": {
+                "en-US": "title",
+                "it-IT": "titolo"
+            }
+        }
+    ]
+}

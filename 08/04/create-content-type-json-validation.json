@@ -1,0 +1,8 @@
+{
+    "id": "title",
+    "name": "Title",
+    "type": "Text",
+    "validations": [{
+        "regexp": {"pattern": "pattern", "flags": "g"}
+    }]
+}

@@ -1,0 +1,1 @@
+https://cdn.contentful.com/spaces/{SPACE}/environments/{ENVIRONMENT}/entries?access_token={ACCESS_TOKEN}

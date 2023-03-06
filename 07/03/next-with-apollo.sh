@@ -1,0 +1,1 @@
+npm install next-with-apollo

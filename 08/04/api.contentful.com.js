@@ -1,0 +1,1 @@
+﻿https://api.contentful.com/spaces/{SPACE_ID}/environments/{ENVIRONMENT_ID}/entries/{ENTRY_ID}  

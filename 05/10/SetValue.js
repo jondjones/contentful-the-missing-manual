@@ -1,0 +1,1 @@
+publishedContent.SetValue("myPropertyAlias", "myValue");

@@ -1,0 +1,1 @@
+https://graphql.contentful.com/content/v1/spaces/{SPACE}/explore?access_token={ACCESS_TOKEN}

@@ -1,0 +1,1 @@
+https://api.contentful.com/spaces/{spaceId}/space_members

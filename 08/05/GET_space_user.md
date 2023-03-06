@@ -1,0 +1,1 @@
+/spaces/{SPACE_ID}/users/{USER_ID}

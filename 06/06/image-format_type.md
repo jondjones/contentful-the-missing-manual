@@ -1,0 +1,1 @@
+https://images.ctfassets.net/../?fm={IMAGE_TYPE}

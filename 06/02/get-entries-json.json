@@ -1,0 +1,10 @@
+{
+    "sys": {},
+    "total": 1,
+    "skip": 0,
+    "limit": 100,
+    "items": [{}],
+    "includes": {
+        "Asset": [{}]
+    }
+}

@@ -1,0 +1,1 @@
+contentful space environment create --name "MY_ENVIRONMENT" --environment-id "MY_ENVIRONMENT"

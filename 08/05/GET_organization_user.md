@@ -1,0 +1,1 @@
+/organizations/{ORGANIZATION_ID}/users/{USER_ID}

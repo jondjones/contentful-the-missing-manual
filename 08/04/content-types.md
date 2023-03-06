@@ -1,0 +1,1 @@
+[GET]/BASE_URL/content_types

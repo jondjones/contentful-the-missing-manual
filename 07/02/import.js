@@ -1,0 +1,1 @@
+import { getSingelItem } from "@utils/contentfulService";

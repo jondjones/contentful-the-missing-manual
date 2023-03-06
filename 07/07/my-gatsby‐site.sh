@@ -1,0 +1,1 @@
+gatsby new my-gatsby-site cd my-gatsby-site

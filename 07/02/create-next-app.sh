@@ -1,0 +1,1 @@
+npx create-next-app my-contentful-nextjs-app

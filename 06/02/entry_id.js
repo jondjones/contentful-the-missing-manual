@@ -1,0 +1,1 @@
+﻿https://cdn.contentful.com/spaces/{ID}/environments/{ID}/entries/{ENTRY_ID}

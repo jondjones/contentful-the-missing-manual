@@ -1,0 +1,1 @@
+const api = `[GET]/spaces/SPACE_ID/environments/ENVIRONMENT_ID/tags/{YOUR_TAG}`;

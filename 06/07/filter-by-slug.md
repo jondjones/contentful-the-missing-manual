@@ -1,0 +1,1 @@
+https://cdn.contentful.com/.../content_type=CONTENT_TYPE&fields.slug=SLUG

@@ -1,0 +1,1 @@
+const api = `https://cdn.contentful.com/spaces/SPACE_ID/environments/ENVIRONMENT_ID/tags/`

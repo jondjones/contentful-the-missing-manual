@@ -1,0 +1,1 @@
+import * as Contentful from 'contentful-management';

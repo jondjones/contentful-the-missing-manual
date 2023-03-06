@@ -1,0 +1,15 @@
+﻿{
+    "rewrites" : [{
+        "source": "/sitemap.xml",
+        "destination": "/api/sitemap"}],
+    "headers": [{
+        "headers": [{
+            "key": "Content-Type",
+            "value" : "application/xml"},
+            {
+                "key": "Cache-Control",
+                "value" : "public, max-age=3600"
+            }],
+    "source": "/sitemap.xml"
+    }]
+}

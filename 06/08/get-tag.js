@@ -1,0 +1,1 @@
+const tag = await client.getTag();

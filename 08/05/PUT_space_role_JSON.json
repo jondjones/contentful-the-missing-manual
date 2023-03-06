@@ -1,0 +1,12 @@
+{
+    "name": "Some role",
+    "description": "Test role",
+    "permissions": {
+        "ContentModel": ["read"],
+        "ContentDelivery": "all",
+        "Environments": "all",
+        "EnvironmentAliases": "all",
+        "Settings": "all"
+    },
+    "policies": []
+}
