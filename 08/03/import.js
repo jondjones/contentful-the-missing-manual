@@ -1,0 +1,1 @@
+contentful space import --content-file contentful-data.json

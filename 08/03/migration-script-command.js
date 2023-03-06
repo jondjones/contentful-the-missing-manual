@@ -1,0 +1,1 @@
+contentful space migration --environment-id 'MY_ENVIRONMENT' my-migration-script.js
